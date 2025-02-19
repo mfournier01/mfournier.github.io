@@ -51,14 +51,11 @@ education:
   - area: PhD in Computational Astrophysics
     institution: Hamburg Universität
     date_start: 2023-07-24
-    date_end: 2025-02-01
+    date_end: 2026-07-01
     summary: |
-      PhD Thesis summary here.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      I use GPU-accelerated simulations to study the role of supermassive black hole in the development of thermal instabilities in the multiphase intracluster medium.
 work:
-  - position: Master Thesis here
+  - position:
     company_name: GenCoin
     company_url: ''
     company_logo: ''
