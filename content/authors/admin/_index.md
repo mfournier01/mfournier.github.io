@@ -91,14 +91,18 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 50
+        icon: code-bracket
+      - name: Fortran
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 75
+        icon: code-bracket
+      - name: Latex
+        description: ''
+        percent: 90
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
