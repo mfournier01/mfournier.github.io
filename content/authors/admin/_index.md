@@ -48,12 +48,22 @@ interests:
   - Multiphase Gas
 
 education:
-  - area: PhD in Computational Astrophysics (*in preparation*)
+  - area: PhD in Computational Astrophysics
     institution: Hamburg Universität
     date_start: 2023-07-24
     date_end: 2026-07-01
     summary: |
       I use GPU-accelerated simulations to study the role of supermassive black hole in the development of thermal instabilities in the multiphase intracluster medium.
+  - area: MSc in Astrophysics
+    institution: Observatoire de Paris
+    date_start: 2022-09-01
+    date_end: 2023-08-01
+    summary: ''
+  - area: MSc in Nuclear Engineering and Particle Physics
+    institution: Université Grenoble Alpes & EPFL
+    date_start: 2019-09-01
+    date_end: 2022-08-01
+    summary: ''
 work:
   - position: Master internship
     company_name: École Normale Supérieure de Lyon
