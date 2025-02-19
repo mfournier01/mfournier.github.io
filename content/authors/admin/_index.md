@@ -140,4 +140,4 @@ awards:
 
 ## About Me
 
-I am doing my PhD at the Observatory of Hamburg. When I'm not debugging code, I like to hike and boulder like any physicist.
+I am doing my PhD at Hamburg Universität.
