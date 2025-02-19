@@ -25,26 +25,22 @@ role: PhD Student in Computational Astrophysics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Hamburg Universität
-    url: https://openai.com/
+    url: https://www.physik.uni-hamburg.de/de/hs.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:martin.fournier@uni-hamburg.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/martin.fournier270/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mfournier01
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/martin-fournier68100/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-2593-1583
 
 interests:
   - Computational Astrophysics
