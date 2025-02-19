@@ -129,8 +129,16 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Co-PI of “**Magnetohydrodynamical simulations of jet-cloud interactions in the intracluster medium**”, *1.00 Mcore-h on JUWELS GPU Booster* (2024) 
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Project contributor of “**Inertial range dynamics in the exascale era with the largest compressible magnetized turbulence simulation**” (2025), *100 Mcore-h on JUPITER*
+    url: https://www.gauss-centre.eu/
+    data: '2025-01'
+    awarder: Gauss Centre for Supercomputing
+    icon: ''
+    summary: |
+       We study the magnetised turbulence using JUPITER, the first European exascale supercomputer, by running the largest MHD simulation to date.
+
+  - title: Co-PI of “**Magnetohydrodynamical simulations of jet-cloud interactions in the intracluster medium**” (2024), *1.00 Mcore-h on JUWELS GPU Booster* 
+    url: https://www.gauss-centre.eu/
     date: '2024-05-01'
     awarder: Gauss Centre for Supercomputing
     icon: ''
