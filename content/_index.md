@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a PhD candidate at the Observatory of Hamburg, working in the field of computational astrophysics. My main research interest is the multiphase intracluster medium. Using GPU-accelerated simulations, I try to disentangle the complex interplay between active galactic nuclei feedback, turbulence, thermal instability and magnetic fields.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        In the past, I have also been working on neutrino detectors, galaxy formation and cosmic ray physics.
     design:
       columns: '1'
   - block: collection
