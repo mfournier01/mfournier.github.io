@@ -48,24 +48,29 @@ interests:
   - Multiphase Gas
 
 education:
-  - area: PhD in Computational Astrophysics
+  - area: PhD in Computational Astrophysics (*in preparation*)
     institution: Hamburg Universität
     date_start: 2023-07-24
     date_end: 2026-07-01
     summary: |
       I use GPU-accelerated simulations to study the role of supermassive black hole in the development of thermal instabilities in the multiphase intracluster medium.
 work:
-  - position:
-    company_name: GenCoin
-    company_url: ''
+  - position: Master internship
+    company_name: École Normale Supérieure de Lyon
+    company_url: https://www.ens-lyon.fr/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-04-01
+    date_end: 2023-08-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I ran magnetohydrodynamical simulations of the Milky-Way using the RAMSES code to investigate the propagation of high-energy cosmic rays emitted from the Galactic Center.
+  - position: Master thesis
+    company_name: Max-Planck-Institut für Astronomie
+    company_url: https://www.mpia.de/de
+    company_logo: ''
+    date_start: 2022-04-01
+    date_end: 2022-08-01
+    summary: |2-
+      I used the cosmological simulation TNG50 to study the properties of Magellanic Clouds analogs.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -92,21 +97,21 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Bouldering
+        description: ''
+        percent: 60
+        icon: person-simple-walk        
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 80
+  - name: German
     percent: 25
 
 # Awards.
@@ -114,31 +119,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Co-PI of “**Magnetohydrodynamical simulations of jet-cloud interactions in the intracluster medium**”, *1.00 Mcore-h on JUWELS GPU Booster* (2024) 
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    date: '2024-05-01'
+    awarder: Gauss Centre for Supercomputing
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      With this computing grant, we investigate the complex interplay between active galactic nuclei feedback, thermal instability, and the role that magnetic fields play in the formation of the multiphase intracluster medium. We use GPU-accelerated simulations of an idealized galaxy cluster using the AthenaPK code.
 ---
 
 ## About Me
