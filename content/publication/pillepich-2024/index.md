@@ -1,16 +1,16 @@
 ---
 title: Milky Way and Andromeda analogues from the TNG50 simulation
 authors:
-- Annalisa Pillepich
-- Diego Sotillo-Ramos
-- Rahul Ramesh
-- Dylan Nelson
-- Christoph Engler
-- Vicente Rodriguez-Gomez
-- Martin Fournier
-- Martina Donnari
-- Volker Springel
-- Lars Hernquist
+- A. Pillepich
+- D. Sotillo-Ramos
+- R. Ramesh
+- D. Nelson
+- C. Engler
+- V. Rodriguez-Gomez
+- M. Fournier
+- M. Donnari
+- V. Springel
+- L. Hernquist
 date: '2024-12-01'
 publishDate: '2025-02-18T23:25:45.436422Z'
 publication_types:
