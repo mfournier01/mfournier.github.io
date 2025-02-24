@@ -1,12 +1,19 @@
 ---
 title: "XMAGNET: Velocity structure functions of AGN-driven turbulence in the multiphase intracluster medium"
 authors:
-- admin
+- M. Fournier
+- P. Grete
+- M. Brüggen
+- B. W. O'Shea
+- D. Prasad
+- B. D. Wibking
+- F. W. Glines
+- R. Mohapatra
 date: "2025-02-24"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-01"
+publishDate: "2025-02-24"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -61,3 +68,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
+We studied velocity structure functions of the intracluster medium.
