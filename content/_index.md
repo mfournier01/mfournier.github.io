@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
       
-        My main topic of interest is the multiphase nature of the intracluster medium and the interaction between feedback from supermassive black holes, thermal instabilities and magnetic fields. To explore these questions, I use advanced numerical methods and run GPU-accelerated simulations on supercomputers. When I'm not working, I enjoy bouldering, playing the drums, attending concert and practicing photography.
+        My main topic of interest is the multiphase nature of the intracluster medium and the interaction between feedback from supermassive black holes, thermal instabilities and magnetic fields. To explore these questions, I use advanced numerical methods and run GPU-accelerated simulations on supercomputers.
 
         In the past, I have also been working on neutrino detectors, cosmological simulations of galaxy formation and cosmic ray physics.
     design:
