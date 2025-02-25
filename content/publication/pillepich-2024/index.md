@@ -11,7 +11,7 @@ authors:
 - M. Donnari
 - V. Springel
 - L. Hernquist
-date: '2024-12-01'
+date: '2023-03-23'
 publishDate: '2025-02-18T23:25:45.436422Z'
 publication_types:
 - article-journal
@@ -32,7 +32,7 @@ abstract: We present the properties of Milky Way- and Andromeda-like (MW/M31-lik
 summary: We investigate the properties of Milky-Way and Adromeda analogs in TNG50.
 
 tags:
-- Galaxy clusters
+- Astrophysics of Galaxies
 
 featured: true
 
