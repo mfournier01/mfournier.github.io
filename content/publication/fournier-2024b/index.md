@@ -19,9 +19,6 @@ links:
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The properties of magnetised cold filaments in a cool-core galaxy cluster"
-publication_short: "Cosmic"
-
 abstract: Filaments of cold gas are found in the inner regions of many cool-core clusters. These structures are thought to play a major role in the regulation of feedback from active galactic nuclei (AGNs). We study the morphology of the filaments, their formation, and their impact on the propagation of the outflowing AGN jets.
 
 # Summary. An optional shortened abstract.
