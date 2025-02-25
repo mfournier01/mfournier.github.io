@@ -35,9 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a PhD candidate at the Observatory of Hamburg, working in the field of computational astrophysics. My main research interest is the multiphase intracluster medium. Using GPU-accelerated simulations, I try to disentangle the complex interplay between active galactic nuclei feedback, turbulence, thermal instability and magnetic fields.
+      
+        My main topic of interest is the multiphase nature of the intracluster medium and the interaction between feedback from supermassive black holes, thermal instabilities and magnetic fields. To explore these questions, I use advanced numerical methods and run GPU-accelerated simulations on supercomputers. When I'm not working, I enjoy bouldering, playing the drums, attending concert and practicing photography.
 
-        In the past, I have also been working on neutrino detectors, galaxy formation and cosmic ray physics.
+        In the past, I have also been working on neutrino detectors, cosmological simulations of galaxy formation and cosmic ray physics.
     design:
       columns: '1'
   - block: collection

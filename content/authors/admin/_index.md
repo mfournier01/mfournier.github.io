@@ -152,4 +152,4 @@ awards:
 
 ## About Me
 
-I am a PhD candidate at Hamburg Universität where I work on magnetohydrodynamical simulations of galaxy clusters. My main topic of interest is the multiphase nature of the intracluster medium and the interaction between feedback from supermassive black holes, thermal instabilities and magnetic fields. To explore these questions, I use advanced numerical methods and run GPU-accelerated simulations on supercomputers. When I'm not working, I enjoy bouldering, playing the drums, attending concert and practicing photography.
+I am a PhD candidate at Hamburg Universität where I work on magnetohydrodynamical simulations of galaxy clusters. When I'm not working, I enjoy bouldering, playing the drums, attending concert and practicing photography.
