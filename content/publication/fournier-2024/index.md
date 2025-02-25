@@ -18,16 +18,13 @@ links:
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Past activity of Sgr A⋆ is unlikely to affect the local cosmic-ray spectrum"
-publication_short: "Cosmic"
-
 abstract: The presence of kiloparsec-sized bubble structures in both sides of the Galactic plan suggests active phases of Sgr A*,the central supermassive black hole of the Milky–Way in the last 1–6 Myr. The contribution of such event on the cosmic-ray flux measured in the solar neighborhood is investigated with numerical simulations. We evaluate whether the population of high–energy charged particles emitted by the Galactic Center could be sufficient to significantly impact the CR flux measured in the solar neighborhood.
 
 # Summary. An optional shortened abstract.
 summary: We use the MHD code RAMSES to study the propagation of cosmic-rays in the Milky-Way.
 
 tags:
-- New paper out!
+- Cosmic rays
 
 featured: true
 

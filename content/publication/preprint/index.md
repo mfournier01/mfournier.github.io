@@ -30,7 +30,7 @@ abstract: Significant theoretical and observational efforts are underway to inve
 summary: We use the fiducial run of XMAGNET, a suite of exascale magneto-hydrodynamical simulations of a cool-core cluster, to investigate the velocity structure functions of the multiphase intracluster medium.
 
 tags:
-- New paper out!
+- Galaxy clusters
 
 featured: true
 

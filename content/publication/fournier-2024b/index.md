@@ -28,7 +28,7 @@ abstract: Filaments of cold gas are found in the inner regions of many cool-core
 summary: We use the MHD code AthenaPK to study the formation and evolution of cold gas in a simulated cool-core cluster.
 
 tags:
-- New paper out!
+- Galaxy clusters
 
 featured: true
 
