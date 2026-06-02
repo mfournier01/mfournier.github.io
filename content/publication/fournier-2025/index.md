@@ -42,4 +42,4 @@ image:
 
 ---
 
-Submitted to The Astrophysical Journal. Comments welcomed.
+Published in Astronomy and Astrophysics.
