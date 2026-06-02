@@ -23,8 +23,6 @@ links:
 - name: URL
   url: https://doi.org/10.1093/mnras/stae2165
 
-publication_types: ["article"]
-
 # Publication name and optional abbreviated publication name.
 abstract: We present the properties of Milky Way- and Andromeda-like (MW/M31-like) galaxies simulated within TNG50, the highest-resolution run of the IllustrisTNG suite of ΛCDM magneto-hydrodynamical simulations.
 

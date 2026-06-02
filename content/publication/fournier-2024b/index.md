@@ -16,8 +16,6 @@ links:
 - name: URL
   url: https://doi.org/10.1051/0004-6361/202451031
 
-publication_types: ["article"]
-
 # Publication name and optional abbreviated publication name.
 abstract: Filaments of cold gas are found in the inner regions of many cool-core clusters. These structures are thought to play a major role in the regulation of feedback from active galactic nuclei (AGNs). We study the morphology of the filaments, their formation, and their impact on the propagation of the outflowing AGN jets.
 
