@@ -1,6 +1,5 @@
 ---
-title: The properties and evolution of magnetised cold filaments
- in a cool-core cluster
+title: My first time in the US!
 
 event: Galaxy Clusters and Radio Relics II 
 event_url: https://galaxy-clusters-radio-relics-2.sites.cfa.harvard.edu/home
