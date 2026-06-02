@@ -29,9 +29,6 @@ abstract: We present the properties of Milky Way- and Andromeda-like (MW/M31-lik
 # Summary. An optional shortened abstract.
 summary: We investigate the properties of Milky-Way and Adromeda analogs in TNG50.
 
-tags:
-- Astrophysics of Galaxies
-
 featured: true
 
 # Featured image
